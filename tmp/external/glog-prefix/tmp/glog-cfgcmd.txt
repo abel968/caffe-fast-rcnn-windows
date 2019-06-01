@@ -1,0 +1,1 @@
+cmd='env;CFLAGS=/DWIN32 /D_WINDOWS /W3;CXXFLAGS=/DWIN32 /D_WINDOWS /W3 /GR /EHsc;E:/caffe-windows/tmp/external/glog-prefix/src/glog/configure;--prefix=E:/caffe-windows/tmp/external/glog-install;--enable-shared=no;--enable-static=yes;--with-gflags=/..'
